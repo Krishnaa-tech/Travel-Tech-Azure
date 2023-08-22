@@ -28,9 +28,9 @@ Problem Statement/Opportunity: This application is developed to provide best tra
 
 **Main Objective** of this system is to provide Online Registration, Tour Package Information, Tour Booking and Searching Facility for Customer and provide good Packages to Customers. If any customer as to enquire about the package then they can get instant reply by asking their enquiry they will be contacted immediately through their given mail and phone no for the package booking.It is a 24x7 service available to the tourists.
 
-Primary Azure Technology : Azure Bot Service, Static Web Apps
+**Primary Azure Technology:** Azure Bot Service, Static Web Apps
 
-Other Azure Technologies : App Service
+Other Azure Technologies: App Service
 ![git1](https://github.com/Krishnaa-tech/Travel-Tech-Microsoft-FRT/blob/5bbacc6f6d612a88ae5a3b6b6647b8ff85e85cd3/images/git1.png)
 
 _**Developed By:**_ [Krish Goyal](https://github.com/Krishnaa-tech) 
