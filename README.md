@@ -9,10 +9,10 @@
 [![GitHub stars](https://img.shields.io/github/stars/Krishnaa-tech/Travel-Tech-Microsoft-FRT.svg?style=social&label=Star)](https://GitHub.com/Krishnaa-tech/Travel-Tech-Microsoft-FRT/stargazers/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Krishnaa-tech/Travel-Tech-Microsoft-FRT/HEAD)
 [![Gitter](https://badges.gitter.im/Krishnaa-tech/BuzzMaps.svg)](https://gitter.im/Krishnaa-tech/Travel-Tech-Microsoft-FRT?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-# Travel-Tech-Microsoft-FRT
+># Travel-Tech-Microsoft-FRT
 This repository aims towards the task of the Project of the Internship where we host the Tourist packages for people and allow them to book the packages through our website and they will receive recommendations with a bot
 
-# _Microsoft-Future-Ready-Talent-Internship-Project_
+># _Microsoft-Future-Ready-Talent-Internship-Project_
 
 **Web Technologies used:** HTML, CSS, JS, Bootstrap
 
