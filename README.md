@@ -33,4 +33,4 @@ Primary Azure Technology : Azure Bot Service, Static Web Apps
 Other Azure Technologies : App Service
 ![git1](https://github.com/Krishnaa-tech/Travel-Tech-Microsoft-FRT/blob/5bbacc6f6d612a88ae5a3b6b6647b8ff85e85cd3/images/git1.png)
 
-_**Made By:**_ &emsp; &emsp; [Krish Goyal](https://github.com/Krishnaa-tech) 
+_**Developed By:**_ &emsp; [Krish Goyal](https://github.com/Krishnaa-tech) 
