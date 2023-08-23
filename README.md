@@ -7,7 +7,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/Krishnaa-tech/Travel-Tech-Azure.svg?style=social&label=Fork)](https://GitHub.com/Krishnaa-tech/Travel-Tech-Azure/network/)
 [![GitHub stars](https://img.shields.io/github/stars/Krishnaa-tech/Travel-Tech-Azure.svg?style=social&label=Star)](https://GitHub.com/Krishnaa-tech/Travel-Tech-Azure/stargazers/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Krishnaa-tech/Travel-Tech-Azure/HEAD)
-[![Gitter](https://badges.gitter.im/Krishnaa-tech/BuzzMaps.svg)](https://gitter.im/Krishnaa-tech/Travel-Tech-Azure?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/Krishnaa-tech/Travel-Tech-Azure.svg)](https://gitter.im/Krishnaa-tech/Travel-Tech-Azure?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ># Travel-Tech-Microsoft-FRT
 This repository aims towards the task of the Project where we host the Tourist packages for people and allow them to book the packages through our website, and they will receive recommendations with a bot
