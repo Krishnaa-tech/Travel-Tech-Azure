@@ -30,4 +30,4 @@ Problem Statement/Opportunity: This application is developed to provide best tra
 
 **Other Azure Technologies:** App Service
 
-_**Developed By:**_ [Krish Goyal](https://github.com/Krishnaa-tech) 
+_**Developed By:**_ &copy;[Krish Goyal](https://github.com/Krishnaa-tech) 
